@@ -22,3 +22,6 @@
         }
         getch ();
         }
+
+# hasil program
+![img](https://github.com/ekayuliaa11/PROGRAM-SEMUA-BILANGAN-KELIPATAN-7-YANG-HABIS-DIBAGI-2/blob/master/bilngan%20kelipatan%207%20yang%20habis%20di%20bagi%202.png?raw=true)
